@@ -37,7 +37,7 @@ export default function Home() {
     setNotes(modifiedCompleteNote)
   }
   return (
-  <Box sx={{backgroundColor:"lightblue",
+  <Box sx={{backgroundColor:"blue",
     width:"100%",
     height:"100vh",
     display:"flex",
